@@ -4,7 +4,7 @@ A responsive photography/museum-style website built with **HTML & CSS**, featuri
 
 ---
 
-## 🖼️ Preview----
+## 🖼️ Preview------
 
 > Dark sidebar layout with a full-screen DSLR camera hero image and social media links.
 
