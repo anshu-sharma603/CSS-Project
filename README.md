@@ -20,7 +20,7 @@ A responsive photography/museum-style website built with **HTML & CSS**, featuri
 
 ---
 
-## 📁 Project Structure
+## 📁 Project Structure-----
 
 ```
 apna-college/
