@@ -1,4 +1,4 @@
-# 📸 Apna College — Photography Website--------------
+# 📸 Apna College — Photography Website----------------
 
 A responsive photography/museum-style website built with **HTML & CSS**, featuring a sleek dark-themed sidebar navigation and a full-screen hero image layout.
 
